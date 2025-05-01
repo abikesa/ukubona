@@ -62,3 +62,4 @@ Our symbols compress epistemic states:
 # flick 20250430131507-pucs
 # flick 20250501105534-yU1q
 # flick 20250501191120-tjdR
+# flick 20250501195704-1jlT
